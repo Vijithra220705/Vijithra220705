@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vijithra V 👋
 
-<!--
-**Vijithra220705/Vijithra220705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Technology Graduate | Python Developer | Exploring AI & Software Development
 
-Here are some ideas to get you started:
+I'm an enthusiastic and motivated Computer Technology graduate interested in software development, Python programming, and emerging AI technologies. I enjoy building practical projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- Python
+- Java
+- SQL & MySQL
+- HTML & CSS
+- React.js
+- TypeScript
+- Git & GitHub
+
+### 🚀 Featured Project
+
+**QuizVerse**  
+An AI-powered quiz and learning application with interactive quizzes, gamification, leaderboard features, and AI-based question generation.
+
+### 🌱 Currently Exploring
+
+- Artificial Intelligence
+- AI Agents
+- Prompt Engineering
+- Software Development
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/vijithra-v-539232316)
